@@ -1,4 +1,3 @@
-# task-2
 
 # 📝 Advanced To-Do List Web App (Front-End Only)
 
